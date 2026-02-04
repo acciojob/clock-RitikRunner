@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let timer = documenet.getElementById("displayTimer")
+let timer = document.getElementById("displayTimer")
 
 let currentDate = new Date();
 
